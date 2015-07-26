@@ -1,7 +1,6 @@
 # Cleaning_Data_Project
-Getting and Cleaning Data Course Project
 
-Project Description
+#Project Description
 
 You should create one R script called run_analysis.R that does the following.
 
@@ -11,13 +10,13 @@ You should create one R script called run_analysis.R that does the following.
     Appropriately labels the data set with descriptive activity names.
     Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-What you find in this repository
+#What you find in this repository
 
-    CodeBook.md: information about raw and tidy data set and elaboration made to transform them
+    CodeBook.md: information about raw and tidy data set and transformations to them
     README.md: this file
     run_analysis.R: R script to transform raw data set in a tidy one
 
-How to create the tidy data set
+#How to create the tidy data set
 
     
     Clone this repository
